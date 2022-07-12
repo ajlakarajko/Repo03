@@ -1,7 +1,7 @@
 function main() {
     // Only change code below this line
     // Amra je carica!
-    /* Amra je kraljica"
+    /* Amra je kraljica
     Amra je faraonka!
     */
     // Only change code above this line
